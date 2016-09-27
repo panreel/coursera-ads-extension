@@ -8,7 +8,7 @@ In real life scenarios people use maps to find the best route between two points
 
 ### Output
 
-[!alt tag](https://github.com/panreel/coursera-ads-extension/blob/master/ExamOutput/AStartTrafficVisualization.png)
+![alt tag](https://github.com/panreel/coursera-ads-extension/blob/master/ExamOutput/AStartTrafficVisualization.png)
 
 ## Tech implementation
 
