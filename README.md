@@ -18,7 +18,7 @@ Following the [Getting Started Guide](https://msdn.microsoft.com/en-us/library/o
 
 ### 2. Get and Setup your Bing Traffic API key in configuration file
 
-Get a [Bing Maps API key](https://msdn.microsoft.com/en-us/library/ff428642.aspx "Bing Maps API key"). Setup the `app_code` in the `.\wee5_apiheuristic\api_configs\BingTraffic.config.json` file with your Bing Maps API code.
+Get a [Bing Maps API key](https://msdn.microsoft.com/en-us/library/ff428642.aspx "Bing Maps API key"). Setup the `app_code` in the `.\week5_apiheuristic\api_configs\BingTraffic.config.json` file with your Bing Maps API code.
 
 ### 2. Run MapApp.java file
 Enjoy!
